@@ -535,17 +535,15 @@ body {
         -ms-flex-align: center;
             align-items: center;
   }
+  .first {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .main__title, .main__title-2 {
+    font-size: 34px;
+  }
 }
-.first {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.main__title, .main__title-2 {
-  font-size: 34px;
-}
-
 @media (max-width: 690px) {
   .container {
     max-width: 300px;
