@@ -1,2 +1,2 @@
 # manifest-site
-Previe https://khodakovskitruslan.github.io/manifest-site/
+Preview https://khodakovskitruslan.github.io/manifest-site/
