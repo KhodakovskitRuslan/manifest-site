@@ -542,6 +542,7 @@ body {
   }
   .main__title, .main__title-2 {
     font-size: 34px;
+    text-align: center;
   }
 }
 @media (max-width: 690px) {
