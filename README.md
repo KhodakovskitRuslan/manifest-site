@@ -1,2 +1,2 @@
 # manifest-site
-Preview 
+Preview: https://khodakovskitruslan.github.io/manifest-site/
